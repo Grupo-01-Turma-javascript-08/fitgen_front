@@ -4,15 +4,7 @@ function Footer() {
   return (
     <footer className="bg-gray-950 text-white py-12 px-6 lg:px-12">
       {/* Seção "Ready to Grow" */}
-      <div className="text-center max-w-4xl mx-auto mb-10">
-        <h2 className="text-4xl md:text-5xl font-bold mb-4">Junte se a nós</h2>
-        <p className="text-base md:text-lg mb-6 leading-relaxed">
-          Nós acreditamos que o sucesso no fitness vem da consistência e do suporte certo. Nossa missão é oferecer não apenas equipamentos de ponta, mas uma equipe que te ouve, te orienta e celebra suas conquistas. De iniciantes a atletas experientes, temos o plano perfeito para você.
-        </p>
-        <button className="bg-orange-500 text-white font-semibold py-3 px-8 rounded-full hover:bg-orange-600 transition-colors">
-          GET STARTED
-        </button>
-      </div>
+      
 
       {/* Linha Separadora */}
       <hr className="border-gray-700 my-8 max-w-6xl mx-auto" />
