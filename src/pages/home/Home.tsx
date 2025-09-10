@@ -1,7 +1,3 @@
-
-
-
-
 function Home() {
   return (
     <div className="min-h-screen bg-[#1A1E23] text-white py-12 px-4 flex justify-center items-center">
@@ -18,9 +14,9 @@ function Home() {
           </div>
           <div className="md:w-1/2 flex justify-center items-center">
             <img
-              src="https://tse4.mm.bing.net/th/id/OIP.-8l0gVPS6Y6CKQSZOJzZywHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+              src="https://ik.imagekit.io/nathlika/funcionalidades-beneficios-app-para-treino-de-academia-scaled.webp?updatedAt=1757519944379"
               alt="Foto academia"
-              className="rounded-xl w-60 h-60 md:w-72 md:h-72 lg:w-64 lg:h-64 object-cover shadow-lg"
+              className="rounded-x1 w-60 h-60 md:w-20 md:h-20 lg:w-190 lg:h-130 object-cover shadow-lg"
             />
           </div>
         </section>
@@ -41,7 +37,7 @@ function Home() {
           </div>
           <div className="md:w-1/2 rounded-lg overflow-hidden shadow-md">
             <img
-              src="/public/treino.jpg"
+              src="https://universo.dechelles.com.br/wp-content/uploads/2023/05/como-melhorar-performance-nos-treinos.jpg"
               alt="Rotina de treino"
               className="w-full h-auto object-cover rounded-lg"
             />
@@ -52,7 +48,7 @@ function Home() {
         <section className="flex flex-col md:flex-row items-center gap-10 mb-16">
           <div className="md:w-1/2 rounded-lg overflow-hidden shadow-md order-2 md:order-1">
             <img
-              src="/public/beneficios.jpg"
+              src="https://www.hipertrofia.org/blog/wp-content/uploads/2018/04/muscleup.jpg"
               alt="Benefícios do treino"
               className="w-full h-auto object-cover rounded-lg"
             />
@@ -82,7 +78,7 @@ function Home() {
           </div>
           <div className="md:w-1/2 rounded-lg overflow-hidden shadow-md">
             <img
-              src="/public/depoimento.jpg"
+              src="https://aericapersonal.com.br/wp-content/uploads/2021/03/mulher-funcional.jpg"
               alt="Depoimentos de alunos"
               className="w-full h-auto object-cover rounded-lg"
             />
